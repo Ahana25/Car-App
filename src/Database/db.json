@@ -1,0 +1,279 @@
+{
+  "users": [
+    {
+      "user": "Bob",
+      "id": 1
+    },
+    {
+      "user": "Susan",
+      "id": 2
+    },
+    {
+      "user": "",
+      "id": 3
+    },
+    {
+      "user": "Zach56",
+      "id": 4
+    },
+    {
+      "user": "Zach123",
+      "id": 5
+    }
+  ],
+  "cars": [
+    {
+      "carmodel": "Hyundai",
+      "seater": 4,
+      "mileage": "80kmph",
+      "id": 1
+    },
+    {
+      "carmodel": "Suzuki",
+      "seate": 4,
+      "mileage": "80kmph",
+      "id": 2
+    },
+    {
+      "carmodel": "Honda",
+      "seater": 6,
+      "mileage": "97kmph",
+      "id": 3
+    },
+    {
+      "carmodel": "Zylo",
+      "seater": 4,
+      "mileage": "102kmph",
+      "id": 4
+    },
+    {
+      "carmodel": "WagonR",
+      "seater": 4,
+      "mileage": "60kmph",
+      "id": 5
+    },
+    {
+      "carmodel": "HyundaiLite",
+      "seater": 6,
+      "mileage": "77kmph",
+      "id": 6
+    },
+    {
+      "carmodel": "Alto",
+      "seater": 4,
+      "mileage": "77kmph",
+      "id": 7
+    },
+    {
+      "carmodel": "IndigoLX",
+      "seater": 4,
+      "mileage": "88kmph",
+      "id": 8
+    },
+    {
+      "carmodel": "Toyota SUV",
+      "seater": 4,
+      "mileage": "99kmph",
+      "id": 9
+    },
+    {
+      "carmodel": "Mahindra",
+      "seater": 6,
+      "mileage": "84kmph",
+      "id": 10
+    },
+    {
+      "carmodel": "TATA Motors",
+      "seater": 6,
+      "mileage": "92kmph",
+      "id": 11
+    },
+    {
+      "carmodel": "Hyundai",
+      "seater": 4,
+      "mileage": "70kmph",
+      "id": 12
+    },
+    {
+      "carmodel": "Alto",
+      "seater": 4,
+      "mileage": "77kmph",
+      "id": 13
+    },
+    {
+      "carmodel": "Hyundai",
+      "seater": 4,
+      "mileage": "67kmph",
+      "id": 14
+    },
+    {
+      "carmodel": "Sedan",
+      "seater": 6,
+      "mileage": "120kmph",
+      "id": 15
+    },
+    {
+      "carmodel": "Hyundai",
+      "seater": 6,
+      "mileage": "90kmph",
+      "id": 16
+    },
+    {
+      "carmodel": "WagonR",
+      "seater": 4,
+      "mileage": "50kmph",
+      "id": 17
+    },
+    {
+      "carmodel": "Hyundai",
+      "seater": 6,
+      "mileage": "80kmph",
+      "id": 18
+    },
+    {
+      "carmodel": "Renault",
+      "seater": 4,
+      "mileage": "90kmph",
+      "id": 19
+    },
+    {
+      "carmodel": "Hyundai",
+      "seater": 4,
+      "mileage": "80kmph",
+      "id": 20
+    }
+  ],
+  "bikes": [
+    {
+      "bikename": "Pulsar",
+      "mileage": "60kmph",
+      "id": 1
+    },
+    {
+      "bikename": "Honda BMW",
+      "mileage": "69kmph",
+      "id": 2
+    },
+    {
+      "bikename": "Moto Corp",
+      "mileage": "65kmph",
+      "id": 3
+    },
+    {
+      "bikename": "Royal Enfield",
+      "mileage": "78kmph",
+      "id": 4
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "65kmph",
+      "id": 5
+    },
+    {
+      "bikename": "KTM Suzuki",
+      "mileage": "76kmph",
+      "id": 6
+    },
+    {
+      "bikename": "Revolt Motors",
+      "mileage": "70kmph",
+      "id": 7
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "69kmph",
+      "id": 8
+    },
+    {
+      "bikename": "Yamaha",
+      "mileage": "80kmph",
+      "id": 9
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "72kmph",
+      "id": 10
+    },
+    {
+      "bikename": "Royal Enfeild",
+      "mileage": "70kmph",
+      "id": 11
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "76kmph",
+      "id": 12
+    },
+    {
+      "bikename": "Mahindra",
+      "mileage": "76kmph",
+      "id": 13
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "90kmph",
+      "id": 14
+    },
+    {
+      "bikename": "Mahindra",
+      "mileage": "78kmph",
+      "id": 15
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "69kmph",
+      "id": 16
+    },
+    {
+      "bikename": "Hero",
+      "mileage": "78kmph",
+      "id": 17
+    },
+    {
+      "bikename": "Pulsar",
+      "mileage": "60kmph",
+      "id": 18
+    },
+    {
+      "bikename": " Royal Enfeild",
+      "mileage": "80kmph",
+      "id": 19
+    },
+    {
+      "bikename": "Honda",
+      "mileage": "80kmph",
+      "id": 20
+    }
+  ],
+  "historycar": [
+    {
+      "carmodel": "Zylo",
+      "seater": 4,
+      "mileage": "102kmph",
+      "id": 4,
+      "name": "bsjxsk",
+      "from": "2021-09-18",
+      "to": "2021-09-24"
+    },
+    {
+      "carmodel": "Suzuki",
+      "seate": 4,
+      "mileage": "80kmph",
+      "id": 2,
+      "name": "Zach Dempsey",
+      "from": "2021-09-23",
+      "to": "2021-09-24",
+      "seater": "4"
+    }
+  ],
+  "historybike": [
+    {
+      "bikename": "Pulsar",
+      "mileage": "65kmph",
+      "id": 5,
+      "name": "Zach Dempsey",
+      "from": "2021-09-16",
+      "to": "2021-09-19"
+    }
+  ]
+}
